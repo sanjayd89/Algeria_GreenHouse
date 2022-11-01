@@ -1,4 +1,5 @@
 # Exploratory Data Analysis of AICU data
+---
 
 We have overall 6 months of data for various datasets
 
@@ -39,3 +40,27 @@ We have overall 6 months of data for various datasets
 ## 7.0 Insights from Final Produce
 -	Truss development time is inversely proportional to Avg no. of harvested trusses as well as Weight of fruits of Class A. Class A means top quality trusses that can be commercially traded whereas Class B refers to trusses that cannot be commercially traded.
 -	This means if we can maintain the conditions inside the Greenhouse to facilitate truss development, we can get good quality of Tomatoes.
+
+# Merging of Dataset
+---
+
+- The overall dataset consists of 7 different csv files viz. 
+  - Crop Parameters
+  - Resources
+  - Lab Analysis
+  - Rootzone Analysis using Grodan Sensors
+  - Greenhouse Climate
+  - Production
+  - Tomato Quality
+  
+- The challenge here is that Greenhouse climate and Rootzone dataset have data with 5minute interval (~48k rows) whereas rest of the datasets have daily, biweekly, monthly data.
+- To combine them into one dataset, we have used Curve fitting for Extrapolating values.
+
+# Feature Selection
+---
+- Using Correlation coefficient, we have dropped features having coefficient threshold more than 0.85
+- Using Extra Tree Regressor, we have created a Feature Importance table to identify which features are providing more information in model prediction.
+- Two tables have been created viz.
+  - All Independent Features providing 95% of information
+  - Independent features with highly correlated features dropped and providing 95%of information
+ - Two models will be trained and evaluated individually to see performance.
