@@ -45,7 +45,7 @@ def prediction(file):
     future = np.expand_dims(future, axis=0)
 
     #importing model:
-    model = tfk.models.load_model('model_1D_win_5Stride.h5')
+    model = tfk.models.load_model('model.h5')
 
     #prediction
     future_predictions = model.predict(future)
