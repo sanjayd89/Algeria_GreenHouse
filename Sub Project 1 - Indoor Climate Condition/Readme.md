@@ -58,7 +58,24 @@
 - Model developed on only 5 month period would not perform well for forecasting conditions throughout the year. Hence, we went with current dataset which has 9 months worth of data.
 	
 ## 6.0 Contributors
-| <a href="https://github.com/sanjayd89"><img src="https://avatars.githubusercontent.com/sanjayd89" width=150px height=150px /></a>| <a href="https://github.com/souhila98"><img src="https://avatars.githubusercontent.com/souhila98" width=150px height=150px /></a>| <a href="https://github.com/Vice777"><img src="https://avatars.githubusercontent.com/Vice777" width=150px height=150px /></a>|
-| :---: | :---: | :---: |
-| **[Sanjay Dubey](https://github.com/sanjayd89)**| **[Djazila Souhila Korti](https://github.com/souhila98)**| **[Vivek Dharewa](https://github.com/Vice777)**|
-| <a href="https://www.linkedin.com/in/sanjay-dubey-78318022/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>| <a href="https://www.linkedin.com/in/djazila-souhila-korti-1470521b9"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>| <a href="https://www.linkedin.com/in/vivek-dharewa-69baaa165/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>|
+| <a href="https://github.com/sanjayd89"><img src="https://avatars.githubusercontent.com/sanjayd89" width=150px height=150px /></a>| <a href="https://github.com/souhila98"><img src="https://avatars.githubusercontent.com/souhila98" width=150px height=150px /></a>|  <a href="https://github.com/Vice777"><img src="https://avatars.githubusercontent.com/Vice777" width=150px height=150px /></a>|
+<a href="https://github.com/AhmedFahim-git"><img src="https://avatars.githubusercontent.com/AhmedFahim-git" width=150px height=150px /></a>| 
+<a href="https://github.com/SimRey"><img src="https://avatars.githubusercontent.com/SimRey" width=150px height=150px /></a>|  <a href="https://github.com/Nivedhika"><img src="https://avatars.githubusercontent.com/Nivedhika" width=150px height=150px /></a>|
+<a href="https://github.com/pariosur"><img src="https://avatars.githubusercontent.com/pariosur" width=150px height=150px /></a>|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
+| **[Sanjay Dubey](https://github.com/sanjayd89)**| 
+  **[Djazila Souhila Korti](https://github.com/souhila98)**| 
+  **[Vivek Dharewa](https://github.com/Vice777)**|
+  **[Ahmed Fahim](https://github.com/AhmedFahim-git)**| 
+  **[Simone Reynoso](https://github.com/SimRey)**| 
+  **[Nivedhika Krishnan](https://github.com/Nivedhika)**|
+  **[Pablo Rios](https://github.com/pariosur)**|
+
+| <a href="https://www.linkedin.com/in/sanjay-dubey-78318022/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
+| <a href="https://www.linkedin.com/in/djazila-souhila-korti-1470521b9"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
+| <a href="https://www.linkedin.com/in/vivek-dharewa-69baaa165/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
+| <a href="https://www.linkedin.com/in/meetahmedfahim/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
+| <a href="https://www.linkedin.com/in/simreydon/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
+| <a href="https://www.linkedin.com/in/nivedhika-krishnan-a9b91449/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>|
+<a href="https://www.linkedin.com/in/pabloriosuribe/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>|
