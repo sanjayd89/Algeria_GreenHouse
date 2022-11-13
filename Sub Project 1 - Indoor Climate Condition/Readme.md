@@ -50,3 +50,15 @@
 <p align="center">
   <img width="1000" src="https://github.com/sanjayd89/Algeria_GreenHouse/blob/main/Sub%20Project%201%20-%20Indoor%20Climate%20Condition/images/streamlit_app.jpg"
 </p>
+
+## 5.0 AGC Dataset:
+- The project initially started on Algeria Greenhouse Challenge (AGC) dataset for which Data Processing, EDA, Feature Selection were performed.
+- The analysis of the same can be found [here](https://github.com/sanjayd89/Algeria_GreenHouse/tree/main/Sub%20Project%201%20-%20Indoor%20Climate%20Condition/AGC%20Dataset)
+- However, it was found that data was available for only 5 month period. 
+- Model developed on only 5 month period would not perform well for forecasting conditions throughout the year. Hence, we went with current dataset which has 9 months worth of data.
+	
+## 6.0 Contributors
+- This project was a team effort. Following are the list of contributors:
+	- [Sanjay Dubey](https://github.com/sanjayd89)
+	- [Djazila Souhila Korti](https://github.com/souhila98)
+	- [Vivek Dharewa](https://github.com/Vice777)
