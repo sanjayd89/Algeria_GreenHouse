@@ -42,3 +42,11 @@
 - The model is provided input of 1440 rows i.e. one day worth of data and model forecasts climate conditions for next 5 minutes.
 - A sample forecast is shown below:
 ![](https://github.com/sanjayd89/Algeria_GreenHouse/blob/main/Sub%20Project%201%20-%20Indoor%20Climate%20Condition/images/prediction.png)
+
+## 4.0 Application
+- In application, there would be a database connected to the complete monitoring and control systems which would take in every minute data of all factors. Based on this, for every 1 day data, forecast can be made for next 5 minutes to ascertain climate conditions within the Greenhouse
+- Here, we have made provision in the application to take a 1 day input from the user and forecast values.
+- Below is snapshot of the same showing forecast values alongwith trigger warning for parameters crossing set limits:
+<p align="center">
+  <img width="1000" src="https://github.com/sanjayd89/Algeria_GreenHouse/blob/main/Sub%20Project%201%20-%20Indoor%20Climate%20Condition/images/streamlit_app.jpg"
+</p>
